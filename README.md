@@ -1,3 +1,47 @@
+<h1 align="left">Hi there, welcome to my Github profile</h1>
+
+###
+
+<p align="left">My name is Cristian Vieira and I'm a Java developer, from SP, Brazil 🇧🇷</p>
+
+###
+
+<h2 align="left">About me:</h2>
+
+###
+
+<p align="left">I'm a backend developer passionate about solving challenges and delivering value through agile and effective solutions.<br><br>💻 My expertise includes:<br><br>- Java and Spring Framework<br>- Microservices architecture<br>- SQL (PostgreSQL, PL/pgSQL) and NoSQL (MongoDB, Redis)<br>- Event-driven systems (Kafka, RabbitMQ)<br>- Docker and Kubernetes</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
